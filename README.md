@@ -1,2 +1,4 @@
-# dio-projeto-git-github
-Primeiro Repositório sobre Python
+# Desafio de Projeto Git e GitHub da DIO .
+
+## Aplicações em Python
+
